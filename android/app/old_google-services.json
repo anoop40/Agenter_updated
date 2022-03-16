@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641322290922",
+    "project_id": "agenter-309c5",
+    "storage_bucket": "agenter-309c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641322290922:android:2116d558b6e5ffa2b81193",
+        "android_client_info": {
+          "package_name": "com.agenter1.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641322290922-7v062itaeiquv1cq27etg01ioav74as0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwcjjNXX7Rq_wfIcBKs3PgKkJRbmwyXcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641322290922-7v062itaeiquv1cq27etg01ioav74as0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

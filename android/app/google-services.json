@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000440063084",
+    "firebase_url": "https://agenterbooks-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "agenterbooks",
+    "storage_bucket": "agenterbooks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000440063084:android:887f7e0f356991e892e449",
+        "android_client_info": {
+          "package_name": "com.agenter.android.bookkeeping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000440063084-i3asgidaha22nkkve7o2t4uil5i1mh96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVPOF_oirKgjg0jtKppv2HKNYRTkAW7CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000440063084-i3asgidaha22nkkve7o2t4uil5i1mh96.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000440063084-5k7pjn5erog4ner5onn0fdhq3t8tjpo2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agenterbooks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
